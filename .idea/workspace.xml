@@ -1,0 +1,925 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/basic-web/src/main/java/com/basic/Application.java" line="20" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" readonly="true" id="3d53d7e0-f70e-45d0-9139-1023f8759127" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/basic-web/target/" />
+    <ignored path="$PROJECT_DIR$/basic-core/target/" />
+    <ignored path="$PROJECT_DIR$/basic-business/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/basic$Application.ic" NAME="Application Coverage Results" MODIFIED="1547273720661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="TestDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/basic-web/src/test/java/com/basic/TestDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="461">
+              <caret line="36" column="43" lean-forward="true" selection-start-line="36" selection-start-column="43" selection-end-line="36" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-3084">
+              <caret line="34" column="21" lean-forward="true" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
+            </state>
+          </provider>
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+        </entry>
+      </file>
+      <file leaf-file-name="index.ftl" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/basic-web/src/main/resources/view/index.ftl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="498">
+              <caret line="89" column="59" lean-forward="true" selection-start-line="89" selection-start-column="59" selection-end-line="89" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="common.ftl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/basic-web/src/main/resources/view/common.ftl">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="welcome.ftl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/basic-web/src/main/resources/view/welcome.ftl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1122" />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.ftl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/basic-web/src/main/resources/view/login.ftl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-330" />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SysUser.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/basic-business/src/main/java/com/basic/model/SysUser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="660">
+              <caret line="35" column="19" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Validform_v5.3.2_min</find>
+      <find>perms</find>
+      <find>ShiroC</find>
+      <find>online</find>
+      <find>filterChainDefinitionMap</find>
+      <find>RedisTemplate</find>
+      <find>layui.js</find>
+      <find>wel</find>
+      <find>free</find>
+      <find>nav-bar</find>
+      <find>admin_</find>
+      <find>用户</find>
+      <find>Base管理登录</find>
+      <find>favicon.ico</find>
+      <find>pagehelper</find>
+      <find>table.js</find>
+      <find>form.render</find>
+      <find>modules</find>
+      <find>CONSOLE</find>
+      <find>starter-cache</find>
+      <find>jedis</find>
+      <find>activemq</find>
+      <find>RedisTest</find>
+      <find>shiro</find>
+      <find>maven-deploy-plugin</find>
+      <find>deploy</find>
+      <find>shiro-</find>
+      <find>basic-core</find>
+      <find>FreemarkerShiroConfig</find>
+      <find>net.</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>basic</replace>
+      <replace>LoginRealm</replace>
+      <replace>permission</replace>
+      <replace>rememberMe</replace>
+      <replace>filterMap</replace>
+      <replace>menu_</replace>
+      <replace />
+      <replace>菜单</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/basic-web/src/main/resources/view/header.html" />
+        <option value="$PROJECT_DIR$/basic-web/src/main/resources/view/index.html" />
+        <option value="$PROJECT_DIR$/basic-web/src/main/resources/view/welcome.html" />
+        <option value="$PROJECT_DIR$/basic-web/src/main/resources/view/common.html" />
+        <option value="$PROJECT_DIR$/basic-web/src/main/resources/view/login.html" />
+        <option value="$PROJECT_DIR$/basic-web/src/main/resources/view/welcome.ftl" />
+        <option value="$PROJECT_DIR$/basic-business/src/main/java/com/basic/controller/MenuController.java" />
+        <option value="$PROJECT_DIR$/basic-web/src/main/resources/view/menu/menu-list.ftl" />
+        <option value="$PROJECT_DIR$/basic-core/src/main/java/com/basic/util/JsonUtil.java" />
+        <option value="$PROJECT_DIR$/basic-business/src/main/java/com/basic/service/SysUserService.java" />
+        <option value="$PROJECT_DIR$/basic-business/src/main/java/com/basic/mapper/SysUserMapper.java" />
+        <option value="$PROJECT_DIR$/basic-business/src/main/resources/mapper/SysUserMapper.xml" />
+        <option value="$PROJECT_DIR$/basic-web/src/main/java/com/basic/config/PageHelperConfig.java" />
+        <option value="$PROJECT_DIR$/basic-web/src/main/java/com/basic/config/WebMvcConfig.java" />
+        <option value="$PROJECT_DIR$/basic-business/src/main/java/com/basic/service/impl/SysUserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/basic-core/src/test/java/com/basic/ShiroEncryptionTest.java" />
+        <option value="$PROJECT_DIR$/basic-core/src/main/java/com/basic/util/DataReturnUtil.java" />
+        <option value="$PROJECT_DIR$/basic-web/src/main/resources/static/lib/layui/layui.js" />
+        <option value="$PROJECT_DIR$/basic-web/src/main/resources/view/common.ftl" />
+        <option value="$PROJECT_DIR$/basic-business/src/main/java/com/basic/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/basic-web/src/main/java/com/basic/config/ShiroConfig.java" />
+        <option value="$PROJECT_DIR$/basic-web/src/main/resources/view/login.ftl" />
+        <option value="$PROJECT_DIR$/basic-core/src/main/java/com/basic/util/CaptchaUtil.java" />
+        <option value="$PROJECT_DIR$/basic-web/src/main/resources/log4j2.yml" />
+        <option value="$PROJECT_DIR$/basic-business/src/main/java/com/basic/core/PermissionFilter.java" />
+        <option value="$PROJECT_DIR$/basic-core/src/test/java/com/basic/RedisTest.java" />
+        <option value="$PROJECT_DIR$/basic-web/src/main/java/com/basic/config/RedisConfig.java" />
+        <option value="$PROJECT_DIR$/basic-core/src/main/java/com/basic/util/MqProducterUtil.java" />
+        <option value="$PROJECT_DIR$/basic-core/src/main/java/com/basic/util/MqComsumerUtil.java" />
+        <option value="$PROJECT_DIR$/basic-business/src/main/java/com/basic/controller/LoginController.java" />
+        <option value="$PROJECT_DIR$/basic-business/src/main/java/com/basic/core/AlarmProducer.java" />
+        <option value="$PROJECT_DIR$/basic-web/src/test/java/com/basic/RedisTest.java" />
+        <option value="$PROJECT_DIR$/basic-web/src/main/resources/application-prod.yml" />
+        <option value="$PROJECT_DIR$/basic-business/src/main/java/com/basic/cc/basic/mq/QueueConsumer.java" />
+        <option value="$PROJECT_DIR$/basic-business/src/main/java/com/basic/cc/basic/mq/producer/ActiveMqProducer.java" />
+        <option value="$PROJECT_DIR$/basic-business/src/main/java/com/basic/cc/basic/mq/consumer/QueueConsumer.java" />
+        <option value="$PROJECT_DIR$/basic-web/src/test/java/com/basic/EmailTest.java" />
+        <option value="$PROJECT_DIR$/basic-business/src/main/java/com/basic/controller/K.kt" />
+        <option value="$PROJECT_DIR$/basic-web/src/main/resources/view/vue.ftl" />
+        <option value="$PROJECT_DIR$/basic-business/src/main/java/com/basic/core/LoginRealm.java" />
+        <option value="G:/apache-maven-3.6.0/conf/settings.xml" />
+        <option value="$PROJECT_DIR$/basic-web/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/basic-web/src/main/resources/view/user/user-list.ftl" />
+        <option value="$PROJECT_DIR$/basic-core/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/basic-business/pom.xml" />
+        <option value="$PROJECT_DIR$/basic-web/pom.xml" />
+        <option value="$PROJECT_DIR$/basic-web/src/test/java/com/basic/Test.java" />
+        <option value="$PROJECT_DIR$/basic-business/src/main/java/com/basic/model/SysUser.java" />
+        <option value="$PROJECT_DIR$/basic-web/src/test/java/com/basic/TestDemo.java" />
+        <option value="$PROJECT_DIR$/basic-web/src/main/resources/view/index.ftl" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="G:\apache-maven-3.6.0\repository" />
+        <option name="mavenHome" value="G:/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="G:\apache-maven-3.6.0\conf\settings.xml" />
+        <option name="workOffline" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="1325" />
+    <option name="height" value="585" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+              <item name="basic-business" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+              <item name="basic-business" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+              <item name="basic-business" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+              <item name="basic-business" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+              <item name="basic-business" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+              <item name="basic-business" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+              <item name="basic-business" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+              <item name="basic-business" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+              <item name="basic-web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+              <item name="basic-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+              <item name="basic-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+              <item name="basic-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+              <item name="basic-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+              <item name="basic-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.ignored.files" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\W-公司项目\个人\basic\basic-web\src\main\resources\static\icon" />
+      <recent name="E:\W-公司项目\个人\basic\basic-web\src\main\resources\view" />
+      <recent name="E:\W-公司项目\个人\basic\basic-web\src\main\resources\auto-config" />
+      <recent name="E:\W-公司项目\个人\basic\basic-web\src\main\resources\static\lib" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.basic" />
+      <recent name="com.basic.cc.basic.mq.producer" />
+      <recent name="com.basic.config" />
+      <recent name="com.basic.controller" />
+      <recent name="com.basic.service.impl" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\W-公司项目\个人\basic\sql" />
+      <recent name="E:\W-公司项目\个人\basic\basic-web\src\main\resources\view" />
+      <recent name="E:\W-公司项目\个人\basic\basic-business\src\main\java\com\basic\controller" />
+      <recent name="E:\W-公司项目\个人\basic\basic-business\src\main\java\com\basic\cc\basic\mq\consumer" />
+      <recent name="E:\W-公司项目\个人\basic\basic-web\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Application">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="C:\Program Files\Java\jdk1.8.0_131\jre" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.basic.Application" />
+      <module name="basic-web" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="TestDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.basic.TestDemo" />
+      <module name="basic-web" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="EmailTest.sendSimpleEmail" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="basic-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.basic" />
+      <option name="MAIN_CLASS_NAME" value="com.basic.EmailTest" />
+      <option name="METHOD_NAME" value="sendSimpleEmail" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="TestDemo.sendSimpleEmail" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="basic-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.basic" />
+      <option name="MAIN_CLASS_NAME" value="com.basic.TestDemo" />
+      <option name="METHOD_NAME" value="sendSimpleEmail" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="com.basic.controller.KKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="basic-business" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.basic.controller.KKt" />
+      <option name="WORKING_DIRECTORY" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Application" />
+      <item itemvalue="JUnit.EmailTest.sendSimpleEmail" />
+      <item itemvalue="Kotlin.com.basic.controller.KKt" />
+      <item itemvalue="JUnit.TestDemo.sendSimpleEmail" />
+      <item itemvalue="Application.TestDemo" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Application" />
+        <item itemvalue="Application.TestDemo" />
+        <item itemvalue="JUnit.TestDemo.sendSimpleEmail" />
+        <item itemvalue="Kotlin.com.basic.controller.KKt" />
+        <item itemvalue="JUnit.EmailTest.sendSimpleEmail" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration useDefault="false">C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+    <option name="runUnderTerminal" value="true" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d53d7e0-f70e-45d0-9139-1023f8759127" name="Default" comment="" />
+      <created>1540796542937</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540796542937</updated>
+      <workItem from="1540796546424" duration="2597000" />
+      <workItem from="1540799497983" duration="134000" />
+      <workItem from="1540799912573" duration="5922000" />
+      <workItem from="1540866813319" duration="2211000" />
+      <workItem from="1540876082610" duration="3989000" />
+      <workItem from="1540889411637" duration="917000" />
+      <workItem from="1541125767930" duration="10492000" />
+      <workItem from="1541143704135" duration="3230000" />
+      <workItem from="1541149629045" duration="1054000" />
+      <workItem from="1541205241887" duration="5521000" />
+      <workItem from="1541214407597" duration="3022000" />
+      <workItem from="1541657199124" duration="9538000" />
+      <workItem from="1541741395597" duration="7205000" />
+      <workItem from="1541751407737" duration="4292000" />
+      <workItem from="1541985810314" duration="5424000" />
+      <workItem from="1541998944202" duration="2687000" />
+      <workItem from="1542002033475" duration="9000" />
+      <workItem from="1542010730449" duration="3384000" />
+      <workItem from="1542087283736" duration="1045000" />
+      <workItem from="1542090544121" duration="5588000" />
+      <workItem from="1542096421925" duration="1506000" />
+      <workItem from="1542356495746" duration="313000" />
+      <workItem from="1542357926673" duration="3111000" />
+      <workItem from="1542417622769" duration="8153000" />
+      <workItem from="1542588621512" duration="6545000" />
+      <workItem from="1542595382045" duration="3729000" />
+      <workItem from="1542613657133" duration="4419000" />
+      <workItem from="1542681053774" duration="3881000" />
+      <workItem from="1542685457926" duration="11347000" />
+      <workItem from="1542762639910" duration="7110000" />
+      <workItem from="1542776392095" duration="5208000" />
+      <workItem from="1542782018573" duration="371000" />
+      <workItem from="1542939690100" duration="6778000" />
+      <workItem from="1543156292244" duration="1228000" />
+      <workItem from="1543391418030" duration="407000" />
+      <workItem from="1543475625781" duration="1219000" />
+      <workItem from="1543478435304" duration="1411000" />
+      <workItem from="1543630863603" duration="92000" />
+      <workItem from="1543817228213" duration="4830000" />
+      <workItem from="1544060392603" duration="949000" />
+      <workItem from="1544076942213" duration="1385000" />
+      <workItem from="1544150019695" duration="10720000" />
+      <workItem from="1544167842903" duration="451000" />
+      <workItem from="1544413164078" duration="54000" />
+      <workItem from="1544414168231" duration="30000" />
+      <workItem from="1544506280426" duration="775000" />
+      <workItem from="1544507079523" duration="154000" />
+      <workItem from="1544507337623" duration="75000" />
+      <workItem from="1544507956690" duration="3106000" />
+      <workItem from="1544512180123" duration="4851000" />
+      <workItem from="1544596607213" duration="1413000" />
+      <workItem from="1544602492995" duration="921000" />
+      <workItem from="1544671465109" duration="3221000" />
+      <workItem from="1544768969940" duration="1742000" />
+      <workItem from="1545012295466" duration="1058000" />
+      <workItem from="1545013365989" duration="1042000" />
+      <workItem from="1545014488831" duration="5459000" />
+      <workItem from="1545023387282" duration="2312000" />
+      <workItem from="1547271727421" duration="1288000" />
+      <workItem from="1547273065829" duration="2793000" />
+      <workItem from="1547276583060" duration="665000" />
+      <workItem from="1547281568395" duration="1723000" />
+      <workItem from="1550125102055" duration="356000" />
+      <workItem from="1550126116488" duration="1395000" />
+      <workItem from="1550131873877" duration="3940000" />
+      <workItem from="1550563332075" duration="396000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="RedisTest_test - 2018.12.07 at 11h 56m 50s.xml">
+      <configuration name="RedisTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RedisTest_test - 2018.12.07 at 13h 01m 15s.xml">
+      <configuration name="RedisTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RedisTest_test - 2018.12.07 at 13h 02m 49s.xml">
+      <configuration name="RedisTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RedisTest_test - 2018.12.07 at 13h 03m 30s.xml">
+      <configuration name="RedisTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RedisTest_test - 2018.12.07 at 13h 04m 06s.xml">
+      <configuration name="RedisTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RedisTest_test - 2018.12.11 at 14h 27m 09s.xml">
+      <configuration name="RedisTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EmailTest_sendSimpleEmail - 2018.12.11 at 15h 26m 46s.xml">
+      <configuration name="EmailTest.sendSimpleEmail" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EmailTest_sendSimpleEmail - 2018.12.11 at 15h 28m 25s.xml">
+      <configuration name="EmailTest.sendSimpleEmail" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EmailTest_sendSimpleEmail - 2018.12.11 at 16h 25m 48s.xml">
+      <configuration name="EmailTest.sendSimpleEmail" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDemo_sendSimpleEmail - 2019.02.14 at 14h 40m 38s.xml">
+      <configuration name="TestDemo.sendSimpleEmail" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="202193000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.50053304" side_tool="true" weight="0.24756756" />
+      <window_info anchor="right" id="Maven Projects" order="9" sideWeight="0.49942726" weight="0.2761194" />
+      <window_info anchor="bottom" id="Database Changes" order="6" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Debug" order="14" sideWeight="0.49946696" weight="0.26587728" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.29162133" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="bottom" id="Java Enterprise" order="8" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3297062" />
+      <window_info anchor="bottom" id="Run" order="13" weight="0.18406889" />
+      <window_info anchor="bottom" id="Spring" order="10" weight="0.20756757" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1684435" />
+      <window_info anchor="bottom" id="Problems" order="12" />
+      <window_info anchor="right" id="Bean Validation" order="8" />
+      <window_info id="Web" order="6" side_tool="true" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="3" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Coverage" order="10" sideWeight="0.50057274" side_tool="true" weight="0.2835821" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="88" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/basic-business/src/main/resources/mapper/SysRoleMapper.xml" />
+    <entry file="file://$PROJECT_DIR$/basic-business/src/main/resources/mapper/SysMenuMapper.xml" />
+    <entry file="file://$PROJECT_DIR$/basic-web/src/main/resources/log4j2.yml" />
+    <entry file="file://$PROJECT_DIR$/basic-web/src/main/java/com/basic/config/WebMvcConfig.java" />
+    <entry file="file://$PROJECT_DIR$/basic-business/src/main/java/com/basic/core/PermissionFilter.java" />
+    <entry file="file://$PROJECT_DIR$/basic-web/src/main/java/com/basic/config/ShiroConfig.java" />
+    <entry file="file://$PROJECT_DIR$/basic-web/src/main/java/com/basic/config/FreeMarkerConfig.java" />
+    <entry file="file://$PROJECT_DIR$/basic-core/src/test/java/com/basic/ShiroEncryptionTest.java" />
+    <entry file="jar://E:/apache-maven-3.3.3/repository/org/springframework/data/spring-data-redis/2.0.9.RELEASE/spring-data-redis-2.0.9.RELEASE-sources.jar!/org/springframework/data/redis/core/RedisTemplate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1023">
+          <caret line="85" column="13" selection-start-line="85" selection-start-column="13" selection-end-line="85" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/apache-maven-3.3.3/repository/org/yaml/snakeyaml/1.19/snakeyaml-1.19-sources.jar!/org/yaml/snakeyaml/Yaml.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="546" selection-start-line="546" selection-end-line="546" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic-core/src/test/java/com/basic/RedisTest.java" />
+    <entry file="file://$PROJECT_DIR$/basic-web/src/main/java/com/basic/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic-core/src/main/java/com/basic/util/MqProducterUtil.java" />
+    <entry file="file://$PROJECT_DIR$/basic-core/src/main/java/com/basic/util/MqComsumerUtil.java" />
+    <entry file="file://E:/apache-maven-3.3.3/repository/org/springframework/boot/spring-boot-dependencies/2.0.4.RELEASE/spring-boot-dependencies-2.0.4.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="2411" column="12" selection-start-line="2411" selection-start-column="12" selection-end-line="2411" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic-web/src/main/java/com/basic/config/RedisConfig.java" />
+    <entry file="file://$PROJECT_DIR$/basic-business/src/main/java/com/basic/core/AlarmProducer.java" />
+    <entry file="jar://E:/apache-maven-3.3.3/repository/org/springframework/spring-context-support/5.0.8.RELEASE/spring-context-support-5.0.8.RELEASE-sources.jar!/org/springframework/mail/javamail/JavaMailSender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="946">
+          <caret line="61" column="17" selection-start-line="61" selection-start-column="17" selection-end-line="61" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic-business/src/main/java/com/basic/cc/basic/mq/consumer/QueueConsumer.java" />
+    <entry file="file://$PROJECT_DIR$/basic-business/src/main/java/com/basic/cc/basic/mq/producer/ActiveMqProducer.java" />
+    <entry file="file://$PROJECT_DIR$/basic-business/src/main/java/com/basic/cc/basic/mq/consumer/TopicConsumer.java" />
+    <entry file="file://$PROJECT_DIR$/basic-business/src/main/java/com/basic/controller/K.kt" />
+    <entry file="file://$PROJECT_DIR$/basic-web/src/main/resources/view/vue.ftl" />
+    <entry file="file://$PROJECT_DIR$/basic-business/src/main/java/com/basic/model/SysMenu.java" />
+    <entry file="file://G:/apache-maven-3.6.0/conf/settings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="194" column="70" lean-forward="true" selection-start-line="194" selection-start-column="70" selection-end-line="194" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/basic-log.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic-core/src/main/java/com/basic/annotation/MethodAspect.java" />
+    <entry file="file://$PROJECT_DIR$/basic-business/src/main/java/com/basic/core/LoginRealm.java" />
+    <entry file="file://$PROJECT_DIR$/basic-web/src/main/resources/view/menu/menu-list.ftl" />
+    <entry file="file://$PROJECT_DIR$/basic-web/src/main/resources/view/user/user-list.ftl" />
+    <entry file="file://$PROJECT_DIR$/basic.iml" />
+    <entry file="file://$PROJECT_DIR$/basic-web/src/main/java/com/basic/config/FreemarkerShiroConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="24" column="79" selection-start-line="24" selection-start-column="79" selection-end-line="24" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic-core/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic-business/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sql/basic.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-330" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1100">
+          <caret line="50" column="28" selection-start-line="50" selection-start-column="28" selection-end-line="50" selection-end-column="28" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic-web/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic-web/src/main/resources/application-prod.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1562">
+          <caret line="71" column="8" selection-start-line="71" selection-start-column="8" selection-end-line="71" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic-web/src/main/resources/application-dev.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic-business/src/main/java/com/basic/controller/LoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2266">
+          <caret line="120" column="23" selection-start-line="120" selection-start-column="23" selection-end-line="120" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic-core/src/main/java/com/basic/util/CaptchaUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="117" column="40" selection-start-line="117" selection-start-column="40" selection-end-line="117" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic-web/src/test/java/com/basic/RedisTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic-web/src/test/java/com/basic/EmailTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="18" selection-start-line="18" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic-business/src/main/java/com/basic/model/SysUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="35" column="19" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/stream/Stream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="168" column="14" selection-start-line="168" selection-start-column="14" selection-end-line="168" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic-web/src/test/java/com/basic/TestDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="461">
+          <caret line="36" column="43" lean-forward="true" selection-start-line="36" selection-start-column="43" selection-end-line="36" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3084">
+          <caret line="34" column="21" lean-forward="true" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic-web/src/main/resources/view/common.ftl">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic-web/src/main/resources/view/login.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-330" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic-web/src/main/resources/view/welcome.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1122" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic-web/src/main/resources/view/index.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="498">
+          <caret line="89" column="59" lean-forward="true" selection-start-line="89" selection-start-column="59" selection-end-line="89" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="$PROJECT_DIR$" />
+    <option value="install" />
+    <option value="clean" />
+    <option value="compile" />
+    <option value="site" />
+    <option value="deploy" />
+    <option value="clean package -Dmaven.test.skip=true" />
+    <option value="dependency:tree" />
+  </component>
+</project>
